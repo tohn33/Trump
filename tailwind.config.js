@@ -5,9 +5,9 @@ module.exports = {
    
     extend: { 
       fontFamily:{
-        japan:['japan'],
-        japanHollow:['japanhollow'],
-        dm:['dm']
+        japan:['"japan"'],
+        japanHollow:['"japanhollow"'],
+        dm:['"dm"']
       },
       screens:{
       'xs':"300px",
